@@ -1,0 +1,29 @@
+{
+  "name": "exchange-rates-bac",
+  "version": "0.0.1",
+  "description": "Exchange Rates from BAC bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinic/exchange-rates-bac.git"
+  },
+  "keywords": [
+    "bac",
+    "exchange",
+    "rates",
+    "nicaragua"
+  ],
+  "author": "Paulo McNally",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/apinic/exchange-rates-bac/issues"
+  },
+  "homepage": "https://github.com/apinic/exchange-rates-bac",
+  "dependencies": {
+    "request": "^2.57.0",
+    "xml2js": "^0.4.9"
+  }
+}
