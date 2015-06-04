@@ -1,6 +1,6 @@
 {
   "name": "exchange-rates-bac",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Exchange Rates from BAC bank",
   "main": "index.js",
   "scripts": {
