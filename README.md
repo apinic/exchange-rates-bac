@@ -1,4 +1,4 @@
-# node-bac-exchange-rates
+# exchange-rates-bac
 Tipo de Cambio del Banco de América Central (https://www.bac.net/nicaragua/esp/banco/index.html)
 
 ## Install
